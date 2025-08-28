@@ -1,0 +1,34 @@
+{
+  "ranges": [
+    {
+      "start": 1,
+      "end": 10000,
+      "description": "Small range for quick testing"
+    },
+    {
+      "start": 10001,
+      "end": 50000,
+      "description": "Medium range for moderate computation"
+    },
+    {
+      "start": 50001,
+      "end": 100000,
+      "description": "Large range for intensive computation"
+    },
+    {
+      "start": 100001,
+      "end": 200000,
+      "description": "Very large range for stress testing"
+    },
+    {
+      "start": 200001,
+      "end": 500000,
+      "description": "Extreme range for maximum CPU usage"
+    }
+  ],
+  "metadata": {
+    "description": "Prime number calculation ranges for CPU-bound testing",
+    "total_numbers": 500000,
+    "expected_primes": "approximately 41,538 primes in range 1-500000"
+  }
+}

@@ -1,0 +1,20 @@
+[GET] /events/6858ffdf5686e23452fe727b/summary, status=200, time=1.662137ms user-agent=axios/1.11.0
+[GET] /internal/products/events/6858ffdf5686e23452fe727b/category, status=200, time=2.968988ms user-agent=python-requests/2.27.1
+[POST] /clubs, status=201, time=15.676557ms user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+[GET] /users/profile, status=200, time=3.245123ms user-agent=axios/1.11.0
+[PUT] /events/6858ffdf5686e23452fe727b, status=200, time=8.123456ms user-agent=python-requests/2.27.1
+[DELETE] /events/6858ffdf5686e23452fe727b, status=204, time=2.987654ms user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+[GET] /api/health, status=200, time=0.123456ms user-agent=axios/1.11.0
+[POST] /auth/login, status=401, time=5.678901ms user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+[GET] /products/list, status=200, time=12.345678ms user-agent=python-requests/2.27.1
+[POST] /orders, status=500, time=25.123456ms user-agent=axios/1.11.0
+[GET] /events/6858ffdf5686e23452fe727b/comments, status=200, time=4.567890ms user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+[PUT] /users/profile, status=200, time=6.789012ms user-agent=python-requests/2.27.1
+[GET] /api/version, status=200, time=0.987654ms user-agent=axios/1.11.0
+[POST] /events/6858ffdf5686e23452fe727b/register, status=201, time=18.234567ms user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+[DELETE] /users/12345, status=404, time=3.456789ms user-agent=python-requests/2.27.1
+[GET] /events/search, status=200, time=9.876543ms user-agent=axios/1.11.0
+[POST] /notifications, status=201, time=7.654321ms user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+[GET] /events/6858ffdf5686e23452fe727b/attendees, status=200, time=5.432109ms user-agent=python-requests/2.27.1
+[PUT] /events/6858ffdf5686e23452fe727b/settings, status=200, time=11.234567ms user-agent=axios/1.11.0
+[GET] /api/status, status=503, time=1.234567ms user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
